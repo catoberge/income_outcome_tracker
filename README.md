@@ -7,4 +7,4 @@ Inspired by the tutorial by Sven/Coding is fun on YouTube.
 Link to tutorial: https://www.youtube.com/watch?v=3egaMfE9388&t=1506s
 
 To run app:
->>> streamlit run app.py
+streamlit run app.py
