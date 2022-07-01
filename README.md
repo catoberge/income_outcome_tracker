@@ -1,4 +1,4 @@
-# income_outcome_tracker
+# Income/outcome-tracker
 
 An app made with the Streamlit framework for Python
 Tracks my income and outcome and present it in a Sankey-chart.
